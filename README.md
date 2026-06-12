@@ -16,59 +16,56 @@ CSE Undergrad at Manipal Institute of Technology. I spend my days exploring back
 
 ## Tech Stack
 
-<img src="https://img.shields.io/badge/Languages-4ECDC4?style=for-the-badge" />
+### Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,rust" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 
-<br/>
+### Backend & Systems
 
-<img src="https://img.shields.io/badge/Backend%20%26%20Systems-FFA94D?style=for-the-badge" />
-
-<img src="https://skillicons.dev/icons?i=fastapi,redis,docker,kubernetes" />
-<br/><br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
-<img src="https://img.shields.io/badge/RESTful%20APIs-FF6F61?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Async%20Processing-FAB005?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Modular%20Backend%20Design-845EF7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RESTful%20APIs-2C3E50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Asynchronous%20Processing-1A1A2E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Modular%20Backend%20Design-1A1A2E?style=for-the-badge" />
 
-<br/>
+### Databases
 
-<img src="https://img.shields.io/badge/Databases-6C5CE7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Relational%20Schema%20Design-1A1A2E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Query%20Optimization-1A1A2E?style=for-the-badge" />
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Relational%20Schema%20Design-5C7CFA?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Query%20Optimization-22B8CF?style=for-the-badge" />
+### Machine Learning & Data
 
-<br/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning%20%26%20Data-00B894?style=for-the-badge" />
-
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
-<br/><br/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 
-<br/>
+### Developer Tools
 
-<img src="https://img.shields.io/badge/Developer%20Tools-E84393?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
-<img src="https://skillicons.dev/icons?i=git,github,postman" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+### Core CS
 
-<br/>
-
-<img src="https://img.shields.io/badge/Core%20CS-0984E3?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Operating%20Systems-2D3436?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Computer%20Networks-00CEC9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OOP-6C5CE7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DBMS-0984E3?style=for-the-badge" />
-<img src="https://img.shields.io/badge/System%20Design-E17055?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Compiler%20Design-D63031?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Operating%20Systems-1A1A2E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer%20Networks-1A1A2E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-1A1A2E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Database%20Management%20Systems-1A1A2E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System%20Design-1A1A2E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Compiler%20Design-1A1A2E?style=for-the-badge" />
 
 <br/>
 
